@@ -37,7 +37,7 @@ npm install
     ```sh
     node index.js
     ```
-1. http://localhost:8080 をブラウザで開く
+1. http://localhost:3000 をブラウザで開く
 
 ## 開発手順
 本プロジェクトの作成手順です
@@ -124,10 +124,3 @@ nodenv versions
 ## ライブラリ取得
 npm install
 ```
-
-### 実行
-1. 起動
-    ```sh
-    npm start
-    ```
-1. http://localhost:3000 をブラウザで開く
